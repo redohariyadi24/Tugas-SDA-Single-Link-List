@@ -191,7 +191,7 @@ int main()
     int pilihan;
     while(1)
     {
-        cout<<"\n**** Single Linked List ****";
+        cout<<"\n**** Single Link List ****";
         cout<<"\n1:Buat List\n2:Tambahkan Data Baru\n3:Hapus Data\n4:Cari Data\n5:Tampilkan List\n6:Keluar\n";
         cout<<"Masukkan pilihan anda:";
         cin>>pilihan;
